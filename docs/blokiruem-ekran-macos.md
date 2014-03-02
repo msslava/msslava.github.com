@@ -1,6 +1,6 @@
-1 способ:
+#1 способ:#
 
-Creating a Service
+##Creating a Service##
 
 Open ‘Automator’ from your ‘Applications’ folder
 When asked to choose a type for your document, pick ‘Service’ and proceed
